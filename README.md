@@ -12,13 +12,13 @@ To downlaod, go to https://hackathon.bigjoecodes.com/genesis/genesis.zip
 
 DEMO link: https://hackathon.bigjoecodes.com
 
-Admin Login
-      ID: 134012515
+Admin Login --> 
+      ID: 134012515    ;
       Pass: Admin@123
       
       
 User Login
     >>>> REGISTER NEW ACCOUNT
-    
+    -->NB: you need to use a valid email and your phone number to see notifications that are sent.
     
 
