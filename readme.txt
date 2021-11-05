@@ -1,13 +1,13 @@
 This is a prototype made byb team "Genesis Innovasol" participating in the "National service and internship hack"
 
->>>>>>>>DOWNLOAD source files from https://hackathon.bigjoecodes.com/genesis/genesis.zip <<<<<<<<<<<<<<<<<<<
+>>>>>>>>DOWNLOAD source files from "https://hackathon.bigjoecodes.com/genesis/genesis.zip" into a folder called "genesis" and extract it <<<<<<<<<<<<<<<<<<<
 
 
 
 A demonstration/prototype of the web application can be found by following this link:
 
 
-https://hackathon.bigjoecodes.com
+DEMO link: https://hackathon.bigjoecodes.com
 
 
 
@@ -20,7 +20,7 @@ login details for super admin:
 	PassHashed: 0e7517141fb53f21ee439b355b5a1d0a
 
 INSTALLATION: go to the “includes” folder, you will find the database. 
--	Create a database locally using xamp (run Apache and MySql) and import the database.
+-	Create a database called innovasol locally using xampp (run Apache and MySql) and import the database.
 
 -	Find the “functions.php” file in include and edit the connection credentials accordingly 
 	for the database connection.
