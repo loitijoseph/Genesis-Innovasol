@@ -1,5 +1,5 @@
 # Genesis-Innovasol
-Source files for a hackathon project.
+Source files for a hackathon project about MYSC manual processing.
 
 
 
